@@ -1,4 +1,4 @@
-# 📘 TP2 - Gestion Client & Réservation (Java EE)
+# 📘 TP1 - Gestion Client & Réservation (Java EE)
 
 ## 📌 Description
 Application web développée avec Java EE permettant de gérer des clients et des réservations.
@@ -15,7 +15,7 @@ Application web développée avec Java EE permettant de gérer des clients et de
 - HTML / CSS
 
 ## 📄 Compte rendu
-Voir : Compte_Rendu_TP2.pdf
+Voir : Compte_Rendu_TP1.pdf
 
 ## 👩‍💻 Réalisé par
 Nada EL-KHAMLICHI
